@@ -2,7 +2,7 @@
 title: GS-Auto (GenomeStudio Automated Program)
 Published: 27 September 2023
 summary: GS-Auto is a R package for comprehensively analysis of DNA methylation data measured by Illumina Infinium Arrays, it can completely replicate the outputs from Illumina official software, GenomeStudio Methylation Module.
-date: '2023-04-27T00:00:00Z'
+date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
