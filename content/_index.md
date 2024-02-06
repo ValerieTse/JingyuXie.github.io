@@ -64,10 +64,10 @@ sections:
       items:
         - title: Bioinformatics Engineer
           company: WeGene
-          company_url: 'https://www.wegene.com/en/'
+          company_url: ''
           company_logo: ''
-          location: Shenzhen, Guangdong, China
-          date_start: '2023-04-01'
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,24 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Part-time Research Assistant
-          company: The Hong Kong Polytechnic University
-          company_url: 'https://www.polyu.edu.hk/sn/people/academic-staff/dr-lin-yang/'
-          company_logo: ''
-          location: Hong Kong SAR, China
-          date_start: '2022-10-01'
-          date_end: '2023-06-31'
-          description: |2-
-              Taught electronic engineering and researched semiconductor physics.
-        - title: Intern Research Assistant
-          company: Clinical Research Center, Zhujiang Hospital of Southern Medical University
-          company_url: 'https://zjyylcyjzx.wetrial.com/Portal/Common/Content?oid=679501583501685377&MenuId=679522252493621585'
-          company_logo: ''
-          location: Guangzhou, Guangdong, China
-          date_start: '2021-07-01'
-          date_end: '2022-09-31'
-          description: |2-
-              Taught electronic engineering and researched semiconductor physics.
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: portfolio
