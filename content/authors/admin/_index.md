@@ -58,7 +58,7 @@ skills:
         description: 'Familiar with SAS'
         percent: 80
       - name: Shell Scripts
-        description: 'Proficiency in operating Linux system through Shell scripts'
+        description: 'Familiar with operating Linux system through Shell scripts'
         percent: 80
       - name: Python
         description: 'Familiar with Python / Jupyter NoteBook'
@@ -68,16 +68,16 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: PLINK
-        description: 'Familiar with PLINK'
+        description: 'Proficient in PLINK'
         percent: 100
       - name: GenomeStudio
-        description: 'Illumina Official Software for Microarray data'
+        description: 'Proficient in this Illumina Official Software for Microarray data'
         percent: 100
       - name: WGS-related
-        description: 'Sentieon / GATK / GCTA / OSCA / BWA / FastQC'
+        description: 'Familiar with Sentieon / GATK / GCTA / OSCA / BWA / FastQC'
         percent: 80
       - name: Others
-        description: 'SPSS / SAS JMP Pro'
+        description: 'Proficient in SPSS / SAS JMP Pro'
         percent: 100
 
 # Social/Academic Networking
