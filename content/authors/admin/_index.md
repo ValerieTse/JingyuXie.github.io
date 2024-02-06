@@ -113,11 +113,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+<!-- 
 {{% callout note %}}
 I have received the admission offer from the Ph.D. program in Human Genetics at the University of Pittsburgh and Ph.D. program in Biostatistics at the University of Texas Health Center.<br>
 Congrats to myself!!
-{{% /callout %}}
+{{% /callout %}} -->
 
 
 Hey! This is Jingyu Xie, please feel free to call me Valerie.<br>
