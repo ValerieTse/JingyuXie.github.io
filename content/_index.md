@@ -82,7 +82,8 @@ sections:
           location: Hong Kong SAR, China
           date_start: '2022-10-01'
           date_end: '2023-06-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Taught electronic engineering and researched semiconductor physics.
         - title: Intern Research Assistant
           company: Clinical Research Center, Zhujiang Hospital of Southern Medical University
           company_url: 'https://zjyylcyjzx.wetrial.com/Portal/Common/Content?oid=679501583501685377&MenuId=679522252493621585'
@@ -90,7 +91,8 @@ sections:
           location: Guangzhou, Guangdong, China
           date_start: '2021-07-01'
           date_end: '2022-09-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: portfolio
