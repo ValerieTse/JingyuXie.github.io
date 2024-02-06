@@ -75,13 +75,29 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
+        - title: Part-time Research Assistant
           company: The Hong Kong Polytechnic University
-          company_url: ''
+          company_url: 'https://www.polyu.edu.hk/sn/people/academic-staff/dr-lin-yang'
           company_logo: ''
           location: Hong Kong SAR, China
           date_start: '2022-10-01'
           date_end: '2023-06-30'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Intern Research Assistant
+          company: Clinical Research Center, Zhujiang Hospital of Southern Medcial University
+          company_url: 'https://zjyylcyjzx.wetrial.com/Portal/Common/Content?oid=679501583501685377&MenuId=679522252493621585'
+          company_logo: ''
+          location: Guangzhou, Guangdong, China
+          date_start: '2021-11-01'
+          date_end: '2022-08-30'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Assistant
+          company: Cardiovascular & Cerebrovascular Department, Zengcheng Branch of Southern Hospital
+          company_url: ''
+          company_logo: ''
+          location: Zengcheng, Guangdong, China
+          date_start: '2020-07-01'
+          date_end: '2020-09-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
