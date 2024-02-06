@@ -81,7 +81,7 @@ sections:
           company_logo: ''
           location: Hong Kong SAR, China
           date_start: '2022-10-01'
-          date_end: '2023-06-31'
+          date_end: '2023-06-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
