@@ -180,8 +180,8 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: valerietse0506@gmail.com
+      phone: +86 13527264490
       contact_links:
         - icon: twitter
           icon_pack: fab
