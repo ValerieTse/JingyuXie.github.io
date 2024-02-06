@@ -52,7 +52,7 @@ skills:
   - name: Programming Language
     items:
       - name: R
-        description: 'Proficient in R'
+        description: 'Proficient in R / R Shiny'
         percent: 100
       - name: SAS
         description: 'Familiar with SAS'
