@@ -78,7 +78,7 @@ sections:
         - title: Part-time Research Assistant
           company: The Hong Kong Polytechnic University
           company_url: 'https://www.polyu.edu.hk/sn/people/academic-staff/dr-lin-yang/'
-          company_logo: 
+          company_logo: ''
           location: Hong Kong SAR, China
           date_start: '2022-10-01'
           date_end: '2023-06-31'
@@ -86,7 +86,7 @@ sections:
         - title: Intern Research Assistant
           company: Clinical Research Center, Zhujiang Hospital of Southern Medical University
           company_url: 'https://zjyylcyjzx.wetrial.com/Portal/Common/Content?oid=679501583501685377&MenuId=679522252493621585'
-          company_logo: 
+          company_logo: ''
           location: Guangzhou, Guangdong, China
           date_start: '2021-07-01'
           date_end: '2022-09-31'
