@@ -76,12 +76,12 @@ sections:
               * Modelling
               * Deploying
         - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company: The Hong Kong Polytechnic University
+          company_url: 'https://www.polyu.edu.hk/sn/people/academic-staff/dr-lin-yang'
+          company_logo: ''
+          location: Hong Kong SAR, China
+          date_start: '2022-10-01'
+          date_end: '2023-06-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
