@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Bioinformatics Engineer
+          company: WeGene
+          company_url: 'https://www.wegene.com/en/'
+          company_logo: ''
+          location: Shenzhen, Guangdong, China
+          date_start: '2023-04-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,13 +75,21 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+        - title: Part-time Research Assistant
+          company: The Hong Kong Polytechnic University
+          company_url: 'https://www.polyu.edu.hk/sn/people/academic-staff/dr-lin-yang/'
+          company_logo: 
+          location: Hong Kong SAR, China
+          date_start: '2022-10-01'
+          date_end: '2023-06-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Intern Research Assistant
+          company: Clinical Research Center, Zhujiang Hospital of Southern Medical University
+          company_url: 'https://zjyylcyjzx.wetrial.com/Portal/Common/Content?oid=679501583501685377&MenuId=679522252493621585'
+          company_logo: 
+          location: Guangzhou, Guangdong, China
+          date_start: '2021-07-01'
+          date_end: '2022-09-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
