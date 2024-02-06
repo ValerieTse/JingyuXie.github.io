@@ -4,12 +4,6 @@ title: ''
 date: 2022-10-24
 type: landing
 
-{{% callout note %}}
-News!<br>
-I have received the admission offer from the Ph.D. program in Human Genetics at the University of Pittsburgh and Ph.D. program in Biostatistics at the University of Texas Health Center.<br>
-Congrats to myself!!
-{{% /callout %}}
-
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site

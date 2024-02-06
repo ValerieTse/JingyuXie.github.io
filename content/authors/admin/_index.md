@@ -114,14 +114,19 @@ social:
 highlight_name: true
 ---
 
+{{% callout note %}}
+I have received the admission offer from the Ph.D. program in Human Genetics at the University of Pittsburgh and Ph.D. program in Biostatistics at the University of Texas Health Center.<br>
+Congrats to myself!!
+{{% /callout %}}
+
 
 Hey! This is Jingyu Xie, please feel free to call me Valerie.<br>
 I am a Bioinformatics Engineer at WeGene, with a M.Sc. in Epidemiology and Biostatistics from the JC School of Public Health and Primary Care of the Chinese University of Hong Kong, and I obtained my B.Sc. in Applied Statistics (Biostatistics) at the School of Public Health of Southern Medical University.<br>
 My research interests include Statistical Genetics, Genetic Epidemiology, Population Genetics, Large-scale Multi-Omics data, Machine Learning and Precision Medicine.<br>
 Currently, I am focusing on epigenomics, especially the DNA Methylation, in an attempt to understand the (epi)genetic basis of Aging, Metablolism, and Psychiatric diseases.
 
-谢静雨，微基因（深圳早知道科技有限公司）生物信息工程师，香港中文大学流行病与生物统计学理学硕士，南方医科大学应用统计系（生物统计）理学学士。<br>
+<!-- 谢静雨，微基因（深圳早知道科技有限公司）生物信息工程师，香港中文大学流行病与生物统计学理学硕士，南方医科大学应用统计系（生物统计）理学学士。<br>
 研究兴趣包含统计遗传学、遗传流行病学、以及群体遗传学。具体来说，我擅长通过机器学习分析多组学数据、机器学习、以及精准医学。<br>
 目前研究重心在表观遗传学，通过机器学习模型分析DNA甲基化数据以解读衰老、代谢、以
-及精神类疾病的（表观）遗传学基础。
+及精神类疾病的（表观）遗传学基础。 -->
 {style="text-align: justify;"}
