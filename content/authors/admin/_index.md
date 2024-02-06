@@ -114,11 +114,6 @@ social:
 highlight_name: true
 ---
 
-{{% callout note %}}
-News!<br>
-I have received the admission offer from the Ph.D. program in Human Genetics at the University of Pittsburgh and Ph.D. program in Biostatistics at the University of Texas Health Center.
-Congrats to myself!!
-{{% /callout %}}
 
 Hey! This is Jingyu Xie, please feel free to call me Valerie.<br>
 I am a Bioinformatics Engineer at WeGene, with a M.Sc. in Epidemiology and Biostatistics from the JC School of Public Health and Primary Care of the Chinese University of Hong Kong, and I obtained my B.Sc. in Applied Statistics (Biostatistics) at the School of Public Health of Southern Medical University.<br>
