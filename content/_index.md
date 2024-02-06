@@ -77,7 +77,7 @@ sections:
               * Deploying
         - title: Professor of Semiconductor Physics
           company: The Hong Kong Polytechnic University
-          company_url: 'https://www.polyu.edu.hk/sn/people/academic-staff/dr-lin-yang'
+          company_url: ''
           company_logo: ''
           location: Hong Kong SAR, China
           date_start: '2022-10-01'
