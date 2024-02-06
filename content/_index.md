@@ -66,7 +66,7 @@ sections:
           company: WeGene
           company_url: 'https://www.wegene.com/en/'
           company_logo: ''
-          location: California
+          location: Shenzhen, Guangdong, China
           date_start: '2023-04-01'
           date_end: ''
           description: |2-
